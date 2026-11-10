@@ -68,4 +68,4 @@ Junior BA portfolio: about me, School 21 projects, BPMN/UML, requirements, SQL. 
 ---
 
 *Буду рада обсудить стажировку или учебные проекты. Пишите!*
-*Буду рада обсудить стажировку или учебные проекты. Пишите!*
+
